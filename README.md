@@ -47,8 +47,23 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 ## 🤔 Instalação
 
 <h3>Backend</h3>
- - npm install <folder> $ npm install esse comando ira instalar todos os módulos necessários ao Node.JS
-$ npm start Ira iniciar o servidor backend na localhost:3333\
+ 
+ - Entre na pasta `backend` e execute o comando `npm install` 
+
+ - `npm start` Ira iniciar o servidor backend na localhost:3333\
+
+ <h3>Frontend | Web</h3>
+ 
+ - Entre na pasta `Frontend` e execute o comando `npm install` 
+
+ - `npm start` Ira iniciar o servidor Frontend na localhost:3000\
+
+ <h3>Mobile</h3>
+ 
+ - Entre na pasta `Mobile` e execute o comando `npm install` 
+
+ - `npm start` Ira iniciar o de desenvolvimento do Expo
+
 
 
 ## :memo: Licença
